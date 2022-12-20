@@ -4,18 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=%20LEE%20Kyu%20Hwang&fontSize=90" />
 </div>
 <div align="center">
-Developers looking to the future rather than the present
+
   
 Hi there 👋
 
-같이의 가치를 아는 개발자 이규황입니다."
+이규황입니다.
 
-Let's not be conceited! 
- 
-코딩은 혼자하는게 아닙니다.
-협업을 위해 배려하며, 성장하기 위해 노력합니다.
-
-서로에게 도움이 되는 개발자 되어가요‼
 </div> 
 <br> 
 <div align="center">
